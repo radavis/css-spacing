@@ -19,7 +19,7 @@ $size: n $n, s $s, m $m, l $l;
 @each $t in $type {
   @each $d in $dirs {
     @each $s in $size {
-      .#{nth($t,1)}#{nth(nth($d,2),1)}#{nth($s,1)}, .#{nth($t,1)}#{nth(nth($d,2),2)}#{nth($s,1)}, .#{nth($t,1)}#{nth(nth($d,2),3)}#{nth($s,1)}{
+      .#{nth($t,1)}#{nth(nth($d,2),1)}#{nth($s,1)}, .#{nth($t,1)}#{nth(nth($d,2),2)}#{nth($s,1)}, .#{nth($t,1)}#{nth(nth($d,2),3)}#{nth($s,1)} {
           #{nth($t,2)}-#{nth($d,1)}: #{nth($s,2)} !important;
       }
     }
@@ -27,9 +27,9 @@ $size: n $n, s $s, m $m, l $l;
 }
 
 .mra, .mha {
-  margin-right:auto !important
+  margin-right: auto !important
 }
 
 .mla, .mha {
-  margin-left:auto !important
+  margin-left: auto !important
 }
