@@ -1,0 +1,156 @@
+/*
+m, b, p: margin, border, padding
+a, t, r, b, l, h, v: all, top, right, bottom, left, horizontal, vertical
+s, m, l, n: small(10px), medium(20px), large(40px), none(0px)
+*/
+.mtn, .mvn, .man {
+  margin-top: 0px !important; }
+
+.mts, .mvs, .mas {
+  margin-top: 10px !important; }
+
+.mtm, .mvm, .mam {
+  margin-top: 20px !important; }
+
+.mtl, .mvl, .mal {
+  margin-top: 40px !important; }
+
+.mrn, .mhn, .man {
+  margin-right: 0px !important; }
+
+.mrs, .mhs, .mas {
+  margin-right: 10px !important; }
+
+.mrm, .mhm, .mam {
+  margin-right: 20px !important; }
+
+.mrl, .mhl, .mal {
+  margin-right: 40px !important; }
+
+.mbn, .mvn, .man {
+  margin-bottom: 0px !important; }
+
+.mbs, .mvs, .mas {
+  margin-bottom: 10px !important; }
+
+.mbm, .mvm, .mam {
+  margin-bottom: 20px !important; }
+
+.mbl, .mvl, .mal {
+  margin-bottom: 40px !important; }
+
+.mln, .mhn, .man {
+  margin-left: 0px !important; }
+
+.mls, .mhs, .mas {
+  margin-left: 10px !important; }
+
+.mlm, .mhm, .mam {
+  margin-left: 20px !important; }
+
+.mll, .mhl, .mal {
+  margin-left: 40px !important; }
+
+.ptn, .pvn, .pan {
+  padding-top: 0px !important; }
+
+.pts, .pvs, .pas {
+  padding-top: 10px !important; }
+
+.ptm, .pvm, .pam {
+  padding-top: 20px !important; }
+
+.ptl, .pvl, .pal {
+  padding-top: 40px !important; }
+
+.prn, .phn, .pan {
+  padding-right: 0px !important; }
+
+.prs, .phs, .pas {
+  padding-right: 10px !important; }
+
+.prm, .phm, .pam {
+  padding-right: 20px !important; }
+
+.prl, .phl, .pal {
+  padding-right: 40px !important; }
+
+.pbn, .pvn, .pan {
+  padding-bottom: 0px !important; }
+
+.pbs, .pvs, .pas {
+  padding-bottom: 10px !important; }
+
+.pbm, .pvm, .pam {
+  padding-bottom: 20px !important; }
+
+.pbl, .pvl, .pal {
+  padding-bottom: 40px !important; }
+
+.pln, .phn, .pan {
+  padding-left: 0px !important; }
+
+.pls, .phs, .pas {
+  padding-left: 10px !important; }
+
+.plm, .phm, .pam {
+  padding-left: 20px !important; }
+
+.pll, .phl, .pal {
+  padding-left: 40px !important; }
+
+.btn, .bvn, .ban {
+  border-top: 0px !important; }
+
+.bts, .bvs, .bas {
+  border-top: 10px !important; }
+
+.btm, .bvm, .bam {
+  border-top: 20px !important; }
+
+.btl, .bvl, .bal {
+  border-top: 40px !important; }
+
+.brn, .bhn, .ban {
+  border-right: 0px !important; }
+
+.brs, .bhs, .bas {
+  border-right: 10px !important; }
+
+.brm, .bhm, .bam {
+  border-right: 20px !important; }
+
+.brl, .bhl, .bal {
+  border-right: 40px !important; }
+
+.bbn, .bvn, .ban {
+  border-bottom: 0px !important; }
+
+.bbs, .bvs, .bas {
+  border-bottom: 10px !important; }
+
+.bbm, .bvm, .bam {
+  border-bottom: 20px !important; }
+
+.bbl, .bvl, .bal {
+  border-bottom: 40px !important; }
+
+.bln, .bhn, .ban {
+  border-left: 0px !important; }
+
+.bls, .bhs, .bas {
+  border-left: 10px !important; }
+
+.blm, .bhm, .bam {
+  border-left: 20px !important; }
+
+.bll, .bhl, .bal {
+  border-left: 40px !important; }
+
+.mra, .mha {
+  margin-right: auto !important; }
+
+.mla, .mha {
+  margin-left: auto !important; }
+
+/*# sourceMappingURL=spacing.css.map */
