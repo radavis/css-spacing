@@ -1,5 +1,5 @@
 /*
-m, b, p: margin, border, padding
+m, p: margin, padding
 a, t, r, b, l, h, v: all, top, right, bottom, left, horizontal, vertical
 s, m, l, n: small(10px), medium(20px), large(40px), none(0px)
 */
@@ -8,7 +8,7 @@ $n: 0px;
 $s: 10px;
 $m: $s * 2;
 $l: $m * 2;
-$type: m margin, p padding, b border;
+$type: m margin, p padding;
 $top: t v a;
 $right: r h a;
 $bottom: b v a;
@@ -25,6 +25,7 @@ $size: n $n, s $s, m $m, l $l;
     }
   }
 }
+
 .mra, .mha {
   margin-right:auto !important
 }

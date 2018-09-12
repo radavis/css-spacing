@@ -1,5 +1,5 @@
 /*
-m, b, p: margin, border, padding
+m, p: margin, padding
 a, t, r, b, l, h, v: all, top, right, bottom, left, horizontal, vertical
 s, m, l, n: small(10px), medium(20px), large(40px), none(0px)
 */
@@ -98,54 +98,6 @@ s, m, l, n: small(10px), medium(20px), large(40px), none(0px)
 
 .pll, .phl, .pal {
   padding-left: 40px !important; }
-
-.btn, .bvn, .ban {
-  border-top: 0px !important; }
-
-.bts, .bvs, .bas {
-  border-top: 10px !important; }
-
-.btm, .bvm, .bam {
-  border-top: 20px !important; }
-
-.btl, .bvl, .bal {
-  border-top: 40px !important; }
-
-.brn, .bhn, .ban {
-  border-right: 0px !important; }
-
-.brs, .bhs, .bas {
-  border-right: 10px !important; }
-
-.brm, .bhm, .bam {
-  border-right: 20px !important; }
-
-.brl, .bhl, .bal {
-  border-right: 40px !important; }
-
-.bbn, .bvn, .ban {
-  border-bottom: 0px !important; }
-
-.bbs, .bvs, .bas {
-  border-bottom: 10px !important; }
-
-.bbm, .bvm, .bam {
-  border-bottom: 20px !important; }
-
-.bbl, .bvl, .bal {
-  border-bottom: 40px !important; }
-
-.bln, .bhn, .ban {
-  border-left: 0px !important; }
-
-.bls, .bhs, .bas {
-  border-left: 10px !important; }
-
-.blm, .bhm, .bam {
-  border-left: 20px !important; }
-
-.bll, .bhl, .bal {
-  border-left: 40px !important; }
 
 .mra, .mha {
   margin-right: auto !important; }
